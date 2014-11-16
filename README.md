@@ -14,4 +14,4 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## License
 
-You are welcome to [contribute](CONTRIBUTING.md) to this list and you can also do whatever you like with it.
+This work is licensed under the Creative Commons Attribution 4.0 International License. You are welcome to [contribute](CONTRIBUTING.md) to this list and you can also create your list if you find this insufficient.
