@@ -1,6 +1,6 @@
-# Contributing guidelines to jQuery Awesome
+# Contributing guidelines to awesome jQuery
 
-If you decide to contribute this Awesome jQuery repository, please do the following:
+If you decide to contribute to this awesome jQuery repository, please do the following:
 
 * Fork a project over GitHub
 
@@ -17,7 +17,7 @@ If you decide to contribute this Awesome jQuery repository, please do the follow
   $ git pull
   ```
 
-* Create a new Git branch for instance patch-1:
+* Create a new Git branch for instance `patch-1`:
 
   ```bash
   $ git checkout -b patch-1
