@@ -2,15 +2,20 @@
 
 A curated list of jQuery plugins, resources and other shiny things. Inspired by the `awesome-*` trend on GitHub.
 
-> jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+<p align="center">
+    <img width="500" src="awesome-jquery.png" alt="awesome-jquery">
+</p>
+
+> [jQuery](http://jquery.com/) is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. Supported by [jQuery Foundation](http://jquery.org) and large community.
+
 
 ## Table of contents
 
-* [Sites](#sites)
-* [Tutorials](#tutorials)
-* [Books](#books)
-	* [Free books](#free-books)
-	* [Paid books](#paid-books)
+* [Resources](#resources)
+	* [Tutorials](#tutorials)
+	* [Books](#books)
+		* [Free books](#free-books)
+		* [Paid books](#paid-books)
 * [Plugins](#plugins)
 	* [Forms](#forms)
 	* [Images, Maps and Charts](#images-maps-and-charts)
@@ -22,19 +27,13 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 * [Contributing and License](#contributing-and-license)
 
 
-## Sites
+## Resources
 
-*Sites you'll want to visit when working with jQuery.*
+*Some reading and learning material to get to know jQuery or learn something more advanced*
 
-* [jQuery homepage](http://jquery.com) - official homepage
-* [The jQuery Foundation](http://jquery.org) - jQuery foundation homepage
-* [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode.
 * [API documentation](http://api.jquery.com/) - official jQuery documentation
 
-[Back to top](#awesome-jquery-)
-
-
-## Tutorials
+### Tutorials
 
 *Awesome free tutorials and courses to learn jQuery.*
 
@@ -45,17 +44,17 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 [Back to top](#awesome-jquery-)
 
 
-## Books
+### Books
 
 *Recommended and not too much outdated jQuery books.*
 
-### Free books
+#### Free books
 
 * [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*
 * [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*
 * [jQuery fundamentals](http://jqfundamentals.com/) - Comfortable working through common problems you'll be called upon to solve using jQuery
 
-### Paid books
+#### Paid books
 
 * [jQuery: Novice to Ninja: New Kicks And Tricks](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*
 
@@ -66,8 +65,10 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 *Awesome plugins all across the jQuery universe*
 
+* [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode
 * [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
 * [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more
+* [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables
 
 [Back to top](#awesome-jquery-)
 
