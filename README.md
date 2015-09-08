@@ -13,6 +13,8 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 	* [Paid books](#paid-books)
 * [Plugins](#plugins)
 	* [Forms](#forms)
+	* [Images, Maps and Charts](#images-maps-and-charts)
+	* [Time and Date](#time-and-date)
 	* [Internationalization](#internationalization)
 * [Mobile](#mobile)
 * [Community](#community)
@@ -65,14 +67,32 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 *Awesome plugins all across the jQuery universe*
 
 * [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
-* [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video
 * [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more
+
+[Back to top](#awesome-jquery-)
 
 
 ### Forms
 
+* [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video
 * [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling
+
+[Back to top](#awesome-jquery-)
+
+
+### Images, Maps and Charts
+
+* [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery
+* [Flot](https://github.com/flot/flot) - Attractive charts
+* [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts
+
+[Back to top](#awesome-jquery-)
+
+
+### Time and Date
+
+* [Smart Time Ago](https://github.com/pragmaticly/smart-time-ago) - Update the relative timestamps in your document
 
 [Back to top](#awesome-jquery-)
 
