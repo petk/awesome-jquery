@@ -113,6 +113,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 * [awesome-jquery](https://github.com/lankaapura/awesome-jquery) - awesome jQuery list
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
+* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
 * awesome lists:
 	* [awesome](https://github.com/sindresorhus/awesome) - awesome lists
 	* [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
