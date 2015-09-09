@@ -11,54 +11,21 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 ## Table of contents
 
-* [Resources](#resources)
-	* [Tutorials](#tutorials)
-	* [Books](#books)
-		* [Free books](#free-books)
-		* [Paid books](#paid-books)
 * [Plugins](#plugins)
 	* [Forms](#forms)
 	* [Images, Maps and Charts](#images-maps-and-charts)
 	* [Time and Date](#time-and-date)
 	* [Internationalization](#internationalization)
 * [Mobile](#mobile)
+* [UI](#ui)
+* [Resources](#resources)
+	* [Tutorials](#tutorials)
+	* [Books](#books)
+		* [Free books](#free-books)
+		* [Paid books](#paid-books)
 * [Community](#community)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing and License](#contributing-and-license)
-
-
-## Resources
-
-*Some reading and learning material to get to know jQuery or learn something more advanced*
-
-* [API documentation](http://api.jquery.com/) - official jQuery documentation
-
-### Tutorials
-
-*Awesome free tutorials and courses to learn jQuery.*
-
-* [Learn jQuery](http://learn.jquery.com/) - jQuery learning center
-* [Try jQuery](http://try.jquery.com/) - learn basic building blocks of jQuery
-* [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development
-
-[Back to top](#awesome-jquery-)
-
-
-### Books
-
-*Recommended and not too much outdated jQuery books.*
-
-#### Free books
-
-* [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*
-* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*
-* [jQuery fundamentals](http://jqfundamentals.com/) - Comfortable working through common problems you'll be called upon to solve using jQuery
-
-#### Paid books
-
-* [jQuery: Novice to Ninja: New Kicks And Tricks](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*
-
-[Back to top](#awesome-jquery-)
 
 
 ## Plugins
@@ -75,9 +42,15 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 ### Forms
 
+*Plugins for Forms, AJAX, validation*
+
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video
 * [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling
+* [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX
+* [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery
+* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy
+* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from javascript code
 
 [Back to top](#awesome-jquery-)
 
@@ -107,7 +80,56 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 ## Mobile
 
-* [jQuery mobile](http://jquerymobile.com/) - lightweight framework for building mobile web apps with HTML5
+*Mobile section*
+
+* [jQuery mobile](http://jquerymobile.com/) - Lightweight framework for building mobile web apps with HTML5
+
+[Back to top](#awesome-jquery-)
+	
+
+## UI
+
+*User Interface section*
+
+* [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery
+
+[Back to top](#awesome-jquery-)
+
+
+## Resources
+
+*Some learning material to get to know jQuery or learn something more advanced.*
+
+* [API documentation](http://api.jquery.com/) - Official jQuery documentation
+* [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library
+* [Codecademy jQuery track](http://www.codecademy.com/tracks/jquery) - Beginners track for learning jQuery
+* [Code School](https://www.codeschool.com/courses/try-jquery) - Learn the basic building blocks of jQuery 2.0 and enjoy new video tutorials for beginners with related programming challenges.
+
+
+### Tutorials
+
+*Awesome free tutorials and courses to learn jQuery.*
+
+* [Learn jQuery](http://learn.jquery.com/) - jQuery learning center
+* [Try jQuery](http://try.jquery.com/) - learn basic building blocks of jQuery
+* [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development
+
+[Back to top](#awesome-jquery-)
+
+
+### Books
+
+*Recommended and not too much outdated jQuery books.*
+
+#### Free books
+
+* [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*
+* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*
+* [jQuery fundamentals](http://jqfundamentals.com/) - Comfortable working through common problems you'll be called upon to solve using jQuery
+
+#### Paid books
+
+* [jQuery: Novice to Ninja: New Kicks And Tricks](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*
 
 [Back to top](#awesome-jquery-)
 
