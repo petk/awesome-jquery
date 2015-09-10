@@ -60,6 +60,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 * [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery
 * [Flot](https://github.com/flot/flot) - Attractive charts
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts
+* [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements
 
 [Back to top](#awesome-jquery-)
 
