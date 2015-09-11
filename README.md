@@ -93,6 +93,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 *User Interface section*
 
 * [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery
+* [jQuery Enhanced Splitter](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content
 
 [Back to top](#awesome-jquery-)
 
