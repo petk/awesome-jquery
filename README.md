@@ -35,8 +35,9 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 * [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode
 * [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
-* [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables
+* [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more
+* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF
 
 [Back to top](#awesome-jquery-)
 
