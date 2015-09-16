@@ -58,10 +58,11 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 ### Images, Maps and Charts
 
 * [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery
+* [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease
 * [Flot](https://github.com/flot/flot) - Attractive charts
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts
 * [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements
-* [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease
+* [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider
 
 [Back to top](#awesome-jquery-)
 
