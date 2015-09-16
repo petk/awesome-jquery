@@ -1,16 +1,20 @@
-# Awesome jQuery [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome jQuery[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of jQuery plugins, resources and other shiny things. Inspired by the `awesome-*` trend on GitHub.
 
-<p align="center">
-    <img width="500" src="awesome-jquery.png" alt="awesome-jquery">
-</p>
+<div align="center">
+	<img width="250" src="awesome-jquery.png" alt="awesome-jquery">
+</div>
 
 > [jQuery](http://jquery.com/) is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. Supported by [jQuery Foundation](http://jquery.org) and large community.
 
-
 ## Table of contents
 
+* [Resources](#resources)
+	* [Tutorials](#tutorials)
+	* [Books](#books)
+		* [Free books](#free-books)
+		* [Paid books](#paid-books)
 * [Plugins](#plugins)
 	* [Forms](#forms)
 	* [Images, Maps and Charts](#images-maps-and-charts)
@@ -19,112 +23,14 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 	* [Internationalization](#internationalization)
 * [Mobile](#mobile)
 * [UI](#ui)
-* [Resources](#resources)
-	* [Tutorials](#tutorials)
-	* [Books](#books)
-		* [Free books](#free-books)
-		* [Paid books](#paid-books)
 * [Community](#community)
-* [Other Awesome Lists](#other-awesome-lists)
+* [Looking for more lists like this?](#looking-for-more-lists-like-this)
 * [Contributing and License](#contributing-and-license)
-
-
-## Plugins
-
-*Awesome plugins all across the jQuery universe*
-
-* [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode
-* [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
-* [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables
-* [Scrollify](https://github.com/lukehaas/Scrollify) - Assists scrolling and snaps to sections
-* [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more
-* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
-
-[Back to top](#awesome-jquery-)
-
-
-### Forms
-
-*Plugins for Forms, AJAX, validation*
-
-* [Bootstrap Multiselect](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap
-* [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video
-* [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks
-* [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery
-* [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms
-* [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX
-* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from javascript code
-* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy
-* [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling
-
-[Back to top](#awesome-jquery-)
-
-
-### Images, Maps and Charts
-
-* [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery
-* [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease
-* [Flot](https://github.com/flot/flot) - Attractive charts
-* [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts
-* [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements
-* [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider
-* [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin
-
-[Back to top](#awesome-jquery-)
-
-
-### Menus
-
-*Menus animation, usability enhancements and beautification.*
-
-* [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus
-* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications)
-* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items
-* [mmenu](https://github.com/BeSite/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus
-* [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements
-* [Slidebars](https://github.com/adchsm/Slidebars) - jQuery framework for off-canvas menus and sidebars
-* [stickUp](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view
-* [Superfish](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus
-
-[Back to top](#awesome-jquery-)
-
-
-### Time and Date
-
-* [Smart Time Ago](https://github.com/pragmaticly/smart-time-ago) - Update the relative timestamps in your document
-
-[Back to top](#awesome-jquery-)
-
-
-### Internationalization
-
-* [i18n properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties)
-
-[Back to top](#awesome-jquery-)
-
-
-## Mobile
-
-*Mobile section*
-
-* [jQuery mobile](http://jquerymobile.com/) - Lightweight framework for building mobile web apps with HTML5
-
-[Back to top](#awesome-jquery-)
-	
-
-## UI
-
-*User Interface section*
-
-* [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery
-* [jQuery Enhanced Splitter](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content
-
-[Back to top](#awesome-jquery-)
 
 
 ## Resources
 
-*Some learning material to get to know jQuery or learn something more advanced.*
+*Awesome learning material to get to know jQuery and JavaScript or learn something more advanced. Some friendly advice: Before diving deep into jQuery learn JavaScript well.*
 
 * [API documentation](http://api.jquery.com/) - Official jQuery documentation
 * [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library
@@ -140,7 +46,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 * [Try jQuery](http://try.jquery.com/) - learn basic building blocks of jQuery
 * [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development
 
-[Back to top](#awesome-jquery-)
+[Back to top](#awesome-jquery)
 
 
 ### Books
@@ -157,7 +63,100 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 * [jQuery: Novice to Ninja: New Kicks And Tricks](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*
 
-[Back to top](#awesome-jquery-)
+[Back to top](#awesome-jquery)
+
+
+## Plugins
+
+*Awesome plugins all across the jQuery universe*
+
+* [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode
+* [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
+* [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables
+* [Scrollify](https://github.com/lukehaas/Scrollify) - Assists scrolling and snaps to sections
+* [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more
+* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
+
+[Back to top](#awesome-jquery)
+
+
+### Forms
+
+*Plugins for Forms, AJAX, validation*
+
+* [Bootstrap Multiselect](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap
+* [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video
+* [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks
+* [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery
+* [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms
+* [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX
+* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from javascript code
+* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy
+* [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling
+
+[Back to top](#awesome-jquery)
+
+
+### Images, Maps and Charts
+
+* [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery
+* [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease
+* [Flot](https://github.com/flot/flot) - Attractive charts
+* [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts
+* [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements
+* [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider
+* [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin
+
+[Back to top](#awesome-jquery)
+
+
+### Menus
+
+*Menus animation, usability enhancements and beautification.*
+
+* [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus
+* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications)
+* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items
+* [mmenu](https://github.com/BeSite/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus
+* [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements
+* [Slidebars](https://github.com/adchsm/Slidebars) - jQuery framework for off-canvas menus and sidebars
+* [stickUp](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view
+* [Superfish](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus
+
+[Back to top](#awesome-jquery)
+
+
+### Time and Date
+
+* [Smart Time Ago](https://github.com/pragmaticly/smart-time-ago) - Update the relative timestamps in your document
+
+[Back to top](#awesome-jquery)
+
+
+### Internationalization
+
+* [i18n properties](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - Lightweight plugin for providing internationalization to JavaScript from [.properties](https://en.wikipedia.org/wiki/.properties) files
+
+[Back to top](#awesome-jquery)
+
+
+## Mobile
+
+*Mobile section*
+
+* [jQuery mobile](http://jquerymobile.com/) - Lightweight framework for building mobile web apps with HTML5
+
+[Back to top](#awesome-jquery)
+	
+
+## UI
+
+*User Interface section*
+
+* [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery
+* [jQuery Enhanced Splitter](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content
+
+[Back to top](#awesome-jquery)
 
 
 ## Community
@@ -175,10 +174,10 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 * [Meetup](http://jquery.meetup.com/) - Get involved locally
 * [Twitter](https://twitter.com/jquery) - Official news and updates from the jQuery team on Twitter
 
-[Back to top](#awesome-jquery-)
+[Back to top](#awesome-jquery)
 
 
-## Other Awesome Lists
+## Looking for more lists like this?
 
 * [awesome-jquery](https://github.com/lankaapura/awesome-jquery) - awesome jQuery list
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
@@ -191,7 +190,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 	* [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
 	* [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
 
-[Back to top](#awesome-jquery-)
+[Back to top](#awesome-jquery)
 
 
 ## Contributing and License
@@ -202,4 +201,4 @@ You are most welcome to [contribute](CONTRIBUTING.md) to this awesome jQuery lis
 
 To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
 
-[Back to top](#awesome-jquery-)
+[Back to top](#awesome-jquery)
