@@ -44,6 +44,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 *Plugins for Forms, AJAX, validation*
 
+* [Bootstrap Multiselect](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video
 * [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks
 * [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery
