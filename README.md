@@ -37,7 +37,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 * [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables
 * [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more
-* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF
+* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
 
 [Back to top](#awesome-jquery-)
 
@@ -76,7 +76,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 *Menus animation, usability enhancements and beautification.*
 
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus
-* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications
+* [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications)
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items
 * [mmenu](https://github.com/BeSite/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus
 * [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements
