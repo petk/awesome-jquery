@@ -68,6 +68,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts
 * [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements
 * [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider
+* [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin
 
 [Back to top](#awesome-jquery-)
 
