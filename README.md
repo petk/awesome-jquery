@@ -45,12 +45,13 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 *Plugins for Forms, AJAX, validation*
 
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video
-* [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms
-* [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling
-* [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX
+* [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks
 * [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery
-* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy
+* [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms
+* [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX
 * [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from javascript code
+* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy
+* [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling
 
 [Back to top](#awesome-jquery-)
 
