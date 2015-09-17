@@ -1,26 +1,32 @@
-# Awesome jQuery[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome jQuery
 
-A curated list of jQuery plugins, resources and other shiny things. Inspired by the `awesome-*` trend on GitHub.
+<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
+[![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
+[![Twitter URL](https://img.shields.io/twitter/url/https/github.com/peterkokot/awesome-jquery.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fpeterkokot%2Fawesome-jquery&hashtags=jquery&text=Awesome%20jQuery%20-%20curated%20list%20of%20jQuery%20plugins,%20resources%20and%20other%20shiny%20things)
+![](https://reposs.herokuapp.com/?path=peterkokot/awesome-jquery&style=plastic)
 
-<div align="center">
-	<img width="250" src="awesome-jquery.png" alt="awesome-jquery">
-</div>
+A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and other shiny things. Inspired by the `awesome-*` trend on GitHub.
 
-> [jQuery](http://jquery.com/) is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. Supported by [jQuery Foundation](http://jquery.org) and large community.
+> [jQuery](http://jquery.com/) is a fast, small, and feature-rich [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+
 
 ## Table of contents
 
+<img width="400" src="https://raw.githubusercontent.com/peterkokot/awesome-jquery/master/awesome-jquery.png" alt="awesome-jquery" align=right>
 * [Resources](#resources)
-	* [Tutorials](#tutorials)
-	* [Books](#books)
-		* [Free books](#free-books)
-		* [Paid books](#paid-books)
+    * [Tutorials](#tutorials)
+    * [Books](#books)
+        * [Free Books](#free-books)
+        * [Paid Books](#paid-books)
+    * [Blogs](#blogs)
+    * [Miscellaneous](#miscellaneous)
 * [Plugins](#plugins)
-	* [Forms](#forms)
-	* [Images, Maps and Charts](#images-maps-and-charts)
-	* [Menus](#menus)
-	* [Time and Date](#time-and-date)
-	* [Translations](#translations)
+    * [Forms](#forms)
+    * [Images, Maps and Charts](#images-maps-and-charts)
+    * [Menus](#menus)
+    * [Modals and Popups](#modals-and-popups)
+    * [Time and Date](#time-and-date)
+    * [Translations](#translations)
 * [Mobile](#mobile)
 * [UI](#ui)
 * [Community](#community)
@@ -32,19 +38,21 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 *Awesome learning material to get to know jQuery and JavaScript or learn something more advanced. Some friendly advice: Before diving deep into jQuery learn JavaScript well.*
 
-* [API documentation](http://api.jquery.com/) - Official jQuery documentation
-* [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library
-* [Codecademy jQuery track](http://www.codecademy.com/tracks/jquery) - Beginners track for learning jQuery
+* [API documentation](http://api.jquery.com/) - Official jQuery documentation.
 * [Code School](https://www.codeschool.com/courses/try-jquery) - Learn the basic building blocks of jQuery 2.0 and enjoy new video tutorials for beginners with related programming challenges.
+* [Codecademy jQuery track](http://www.codecademy.com/tracks/jquery) - Beginners track for learning jQuery.
+* [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
+* [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
+* [Tuts+](http://code.tutsplus.com/categories/jquery) - useful and indepth articles about jQuery
 
 
 ### Tutorials
 
 *Awesome free tutorials and courses to learn jQuery.*
 
+* [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development
 * [Learn jQuery](http://learn.jquery.com/) - jQuery learning center
 * [Try jQuery](http://try.jquery.com/) - learn basic building blocks of jQuery
-* [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development
 
 [Back to top](#awesome-jquery)
 
@@ -53,29 +61,53 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 *Recommended and not too much outdated jQuery books.*
 
-#### Free books
+#### Free Books
 
 * [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*
 * [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*
 * [jQuery fundamentals](http://jqfundamentals.com/) - Comfortable working through common problems you'll be called upon to solve using jQuery
 
-#### Paid books
 
+#### Paid Books
+
+* [jQuery in Action, Third Edition](https://www.manning.com/books/jquery-in-action-third-edition) - Fast-paced and complete guide to jQuery, *by Bear Bibeault, Yehuda Katz, and Aurelio De Rosa*
 * [jQuery: Novice to Ninja: New Kicks And Tricks](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*
+* [Learning jQuery - Fourth Edition](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) - Guide to jQuery, *by Jonathan Chaffer and Karl Swedberg*
+
+[Back to top](#awesome-jquery)
+
+
+### Blogs
+
+*Interesting jQuery related blogs and websites.*
+
+* [jQuery Blog](http://blog.jquery.com/) - News from the official jQuery website
+* [jQuery UI Blog](http://blog.jqueryui.com/) - Official jQuery UI blog
+* [AddyOsmani.com](http://addyosmani.com/blog/tag/jquery/) - Articles for Front-end engineers with jQuery included
+* [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with usuful articles
+* [Smashing Magazine](http://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts
+
+[Back to top](#awesome-jquery)
+
+
+### Miscellaneous
+
+*Various types of resources.*
+
+* [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
+* [TodoMVC](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
 
 [Back to top](#awesome-jquery)
 
 
 ## Plugins
 
-*Awesome plugins all across the jQuery universe*
+*Awesome plugins from all across the jQuery universe*
 
 * [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode
 * [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
-* [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables
 * [Scrollify](https://github.com/lukehaas/Scrollify) - Assists scrolling and snaps to sections
 * [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more
-* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
 
 [Back to top](#awesome-jquery)
 
@@ -90,7 +122,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 * [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery
 * [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms
 * [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX
-* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from javascript code
+* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling
 
@@ -126,6 +158,33 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 [Back to top](#awesome-jquery)
 
 
+### Modals and Popups
+
+*Plugins for modals (dialog box/popups) and similar popup windows.*
+
+* [animatedModal.js](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
+* [Avgrund](https://github.com/voronianski/jquery.avgrund.js) - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
+* [Bootstrap Modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
+* [jBox](https://github.com/StephanWagner/jBox) - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
+* [jQuery Modal](https://github.com/kylefox/jquery-modal) - Simple and lightweight method of displaying modal windows.
+* [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - Responsive and accessible modal windows and tooltips.
+* [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) - Fast, light and responsive lightbox plugin.
+* [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
+
+[Back to top](#awesome-jquery)
+
+
+### Tables
+
+*Grid plugins and plugins for creating and showcasing data in form of tables*
+
+* [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables
+* [jqGrid](https://github.com/tonytomov/jqGrid) - Grid plugin
+* [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF
+
+[Back to top](#awesome-jquery)
+
+
 ### Time and Date
 
 * [Smart Time Ago](https://github.com/pragmaticly/smart-time-ago) - Update the relative timestamps in your document
@@ -151,7 +210,7 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 * [jQuery mobile](http://jquerymobile.com/) - Lightweight framework for building mobile web apps with HTML5
 
 [Back to top](#awesome-jquery)
-	
+    
 
 ## UI
 
@@ -165,10 +224,10 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 ## Community
 
-*Ask and answer questions, share jQuery related stuff and get in touch with community.*
+*Ask and answer questions, share and get jQuery related stuff and get in touch with the community.*
 
 * [Forum](https://forum.jquery.com/) - Official forum
-* [Freenode](https://webchat.freenode.net/?channels=jquery) - Support IRC channel for users of jQuery, jQuery UI, and jQuery Mobile
+* [Freenode](http://irc.lc/freenode/jquery) - Support IRC channel for users of jQuery, jQuery UI, and jQuery Mobile
 * [Stack Overflow](http://stackoverflow.com/tags/jquery) - Support on Stack Overflow
 * [Facebook](https://www.facebook.com/groups/jquerycode/) - Large and active group on Facebook
 * [Linked.in](https://www.linkedin.com/grp/home?gid=100943) - Large and active group on Linked.in
@@ -183,23 +242,24 @@ A curated list of jQuery plugins, resources and other shiny things. Inspired by 
 
 ## Looking for more lists like this?
 
-* [awesome-jquery](https://github.com/lankaapura/awesome-jquery) - awesome jQuery list
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
-* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
-* awesome lists:
-	* [awesome](https://github.com/sindresorhus/awesome) - awesome lists
-	* [awesome-awesome](https://github.com/emijrp/awesome-awesome) - awesome lists
-	* [GetAwesomeness](http://getawesomeness.com/) - awesome lists
-	* [lists](https://github.com/jnv/lists) - awesome lists
-	* [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
-	* [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
+* Awesome lists:
+    * [awesome](https://github.com/sindresorhus/awesome) - Awesome lists
+    * [awesome-all](https://github.com/bradoyler/awesome-all) - Awesome lists
+    * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - Awesome lists
+    * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - Awesome lists
+    * [GetAwesomeness](http://getawesomeness.com/) - Awesome lists
+    * [lists](https://github.com/jnv/lists) - Awesome lists
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
+* [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
+* [js-must-watch](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
+* [lankaapura/awesome-jquery](https://github.com/lankaapura/awesome-jquery) - Awesome jQuery list
 
 [Back to top](#awesome-jquery)
 
 
 ## Contributing and License
 
-You are most welcome to [contribute](CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors](https://github.com/peterkokot/awesome-jquery/graphs/contributors) who have helped build this list.
+You are most welcome to [contribute](CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors](https://github.com/peterkokot/awesome-jquery/graphs/contributors) who have helped to build this list.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
