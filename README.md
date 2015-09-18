@@ -1,8 +1,7 @@
 # Awesome jQuery
 
-[![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
+[![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Twitter URL](https://img.shields.io/twitter/url/https/github.com/peterkokot/awesome-jquery.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fpeterkokot%2Fawesome-jquery&hashtags=jquery&text=Awesome%20jQuery%20-%20curated%20list%20of%20jQuery%20plugins,%20resources%20and%20other%20shiny%20things)
 ![](https://reposs.herokuapp.com/?path=peterkokot/awesome-jquery&style=plastic)
