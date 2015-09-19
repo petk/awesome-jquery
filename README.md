@@ -84,9 +84,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Interesting jQuery related blogs and websites.*
 
+* [AddyOsmani.com](http://addyosmani.com/blog/tag/jquery/) - Articles for Front-end engineers with jQuery included.
 * [jQuery Blog](http://blog.jquery.com/) - News from the official jQuery website.
 * [jQuery UI Blog](http://blog.jqueryui.com/) - Official jQuery UI blog.
-* [AddyOsmani.com](http://addyosmani.com/blog/tag/jquery/) - Articles for Front-end engineers with jQuery included.
 * [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with usuful articles.
 * [Smashing Magazine](http://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
 
