@@ -201,6 +201,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
 * [jqGrid](https://github.com/tonytomov/jqGrid) - Grid plugin.
+* [jsGrid](https://github.com/tabalinas/jsgrid) - Lightweight grid plugin.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
 
 [Back to top](#awesome-jquery)
