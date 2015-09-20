@@ -201,9 +201,15 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Grid plugins and plugins for creating and showcasing data in form of tables.*
 
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
+* [Filter Table](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables.
+* [FooTable](https://github.com/fooplugins/FooTable/) - Make HTML tables responsive.
 * [Isotope](https://github.com/metafizzy/isotope) - Filter & sort magical layouts.
+* [HighchartTable](https://github.com/highchartTable/jquery-highchartTable-plugin) - Simple way to convert HTML data tables to Highcharts graphs.
 * [jqGrid](https://github.com/tonytomov/jqGrid) - Grid plugin.
+* [jQuery treetable](https://github.com/ludo/jquery-treetable) - Show a tree structure in a table.
 * [jsGrid](https://github.com/tabalinas/jsgrid) - Lightweight grid plugin.
+* [Stackable.js](https://github.com/johnpolacek/stacktable.js/) - Stacking tables on small screens.
+* [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
 
 [Back to top](#awesome-jquery)
