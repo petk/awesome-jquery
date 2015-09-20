@@ -138,7 +138,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
 * [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
 * [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX.
+* [Justified Gallery](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
 * [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
+* [Pickdate](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 
@@ -199,6 +201,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Grid plugins and plugins for creating and showcasing data in form of tables.*
 
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
+* [Isotope](https://github.com/metafizzy/isotope) - Filter & sort magical layouts.
 * [jqGrid](https://github.com/tonytomov/jqGrid) - Grid plugin.
 * [jsGrid](https://github.com/tabalinas/jsgrid) - Lightweight grid plugin.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
