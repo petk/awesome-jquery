@@ -30,6 +30,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [Tables](#tables)
     * [Time and Date](#time-and-date)
     * [Translations](#translations)
+    * [Validation](#validation)
 * [Mobile](#mobile)
 * [UI](#ui)
 * [Community](#community)
@@ -135,12 +136,8 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [Bootstrap Multiselect](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
-* [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
-* [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
 * [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
 * [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX.
-* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
-* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 * [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 * [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
@@ -229,6 +226,16 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
+
+### Validation
+
+*Validation plugins*
+
+* [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
+* [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
+* [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
+* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
+* [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
 
 ## Mobile
 
