@@ -1,10 +1,12 @@
-# Contributing guidelines to awesome jQuery
+# Contributing guidelines to Awesome jQuery
 
-If you decide to contribute to this awesome jQuery repository, please do the following:
+Contributing to this project is very simple. You can open an [issue](https://github.com/peterkokot/awesome-jquery/issues).
 
-* Fork a project over GitHub
+Pull requests are welcome as well:
 
-* Set up your repository and set a remote branch for future updates
+* Fork this project over GitHub
+
+* Set up your repository and set a remote branch for potential future updates
 
   ```bash
   $ git add remote upstream git://github.com/peterkokot/awesome-jquery.git
@@ -27,8 +29,9 @@ If you decide to contribute to this awesome jQuery repository, please do the fol
 
 * Make changes to the `patch-1` branch
 
-  Changes must include librarires or resources that use [jQuery](http://jquery.com/) or any project related to the
-  jQuery ecosystem. Typos and grammatical corrections are perfectly fine as well.
+  Changes should include libraries or resources that are in a way related to [jQuery](http://jquery.com/).
+  It would be nice if added plugins meet [plugin's guidelines](awesome-plugin.md). Fixing typos and grammatical
+  corrections are perfectly fine as well.
 
 * Commit and push to your GitHub repository
 
