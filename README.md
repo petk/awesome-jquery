@@ -141,6 +141,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX.
 * [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
+* [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 * [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 
@@ -155,6 +156,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Gridder](https://github.com/oriongunning/gridder) - Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts.
 * [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
+* [jQuery Mapael](https://github.com/neveldo/jQuery-Mapael) - Plugin based on raphael.js that allows you to display dynamic vector maps.
 * [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider.
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 
