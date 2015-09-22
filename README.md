@@ -174,6 +174,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Slidebars](https://github.com/adchsm/Slidebars) - jQuery framework for off-canvas menus and sidebars.
 * [stickUp](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
 * [Superfish](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus.
+* [Yamm](https://github.com/geedmo/yamm3) - Yet another megamenu for Bootstrap 3.
 
 [Back to top](#awesome-jquery)
 
