@@ -33,6 +33,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [Validation](#validation)
 * [Mobile](#mobile)
 * [UI](#ui)
+* [Testing](#testing)
 * [Community](#community)
 * [Looking for more lists like this?](#looking-for-more-lists-like-this)
 * [Contributing and License](#contributing-and-license)
@@ -265,6 +266,16 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery.
 * [jQuery Enhanced Splitter](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
 * [tabulous.js](https://github.com/aarondo/tabulous.js) - Tabs for todays web
+
+[Back to top](#awesome-jquery)
+
+
+## Testing
+
+*Unit tests, testing section.*
+
+* [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
+
 [Back to top](#awesome-jquery)
 
 
