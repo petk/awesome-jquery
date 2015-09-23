@@ -89,7 +89,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [AddyOsmani.com](http://addyosmani.com/blog/tag/jquery/) - Articles for Front-end engineers with jQuery included.
 * [jQuery Blog](http://blog.jquery.com/) - News from the official jQuery website.
 * [jQuery UI Blog](http://blog.jqueryui.com/) - Official jQuery UI blog.
-* [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with usuful articles.
+* [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with useful articles.
 * [Smashing Magazine](http://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
 
 [Back to top](#awesome-jquery)
@@ -118,7 +118,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 ## Animation
 
-*Animations, transitions*
+*Animations, transitions.*
 
 * [Animsition](https://github.com/blivesta/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions.
 * [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js) - Lightweight plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
@@ -133,7 +133,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 ### Forms
 
-*Plugins for Forms, AJAX, validation*
+*Plugins for Forms, AJAX, validation.*
 
 * [Bootstrap Multiselect](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
 * [File Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
@@ -149,6 +149,8 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 
 ### Images, Maps and Charts
+
+*Plugins related to images, image manipulation, galleries, maps and charts.*
 
 * [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
 * [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease.
