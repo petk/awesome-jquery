@@ -174,6 +174,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts.
 * [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
 * [jQuery Mapael](https://github.com/neveldo/jQuery-Mapael) - Plugin based on raphael.js that allows you to display dynamic vector maps.
+* [jQueryGantt](https://github.com/robicch/jQueryGantt) - Gantt editor.
 * [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider.
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 
