@@ -23,6 +23,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [Miscellaneous](#miscellaneous)
 * [Plugins](#plugins)
     * [Animation](#animation)
+    * [Editors](#editors)
     * [Forms](#forms)
     * [Images, Maps and Charts](#images-maps-and-charts)
     * [Menus](#menus)
@@ -128,6 +129,19 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Midnight](https://github.com/Aerolab/midnight.js) - Switches fixed headers on the fly.
 * [Scrollify](https://github.com/lukehaas/Scrollify/) - Assists scrolling and snaps to sections. Touch optimised.
 * [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
+
+[Back to top](#awesome-jquery)
+
+
+### Editors
+
+*WYSIWYG editors.*
+
+* [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
+* [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
+* [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
+* [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
+* [TinyMCE](http://www.tinymce.com/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
 
 [Back to top](#awesome-jquery)
 
