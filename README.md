@@ -32,6 +32,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [Time and Date](#time-and-date)
     * [Translations](#translations)
     * [Validation](#validation)
+    * [Miscellaneous Plugins](#miscellaneous-plugins)
 * [Mobile](#mobile)
 * [UI](#ui)
 * [Testing](#testing)
@@ -112,8 +113,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Awesome plugins from all across the jQuery universe.*
 
 * [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode.
-* [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
-* [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more.
 
 [Back to top](#awesome-jquery)
 
@@ -258,13 +257,27 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 ### Validation
 
-*Validation plugins*
+*Validation plugins.*
 
 * [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
 * [h5Validate](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
 * [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
+
+[Back to top](#awesome-jquery)
+
+
+### Miscellaneous Plugins
+
+*Plugins that couldn't be sorted in above categories yet.*
+
+* [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
+* [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more.
+* [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
+
+[Back to top](#awesome-jquery)
+
 
 ## Mobile
 
