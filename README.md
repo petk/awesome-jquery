@@ -21,7 +21,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
         * [Free Books](#free-books)
         * [Paid Books](#paid-books)
     * [Blogs](#blogs)
-    * [Miscellaneous](#miscellaneous)
+    * [Miscellaneous Resources](#miscellaneous-resources)
 * [Plugins](#plugins)
     * [Animation](#animation)
     * [Editors](#editors)
@@ -98,7 +98,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 [Back to top](#awesome-jquery)
 
 
-### Miscellaneous
+### Miscellaneous Resources
 
 *Various types of resources.*
 
@@ -114,6 +114,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Awesome plugins from all across the jQuery universe.*
 
 * [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode.
+* [jQuery Rain](http://www.jqueryrain.com/) - Top & Best jQuery plugins, tutorials, cool effects, examples, demos.
 
 [Back to top](#awesome-jquery)
 
