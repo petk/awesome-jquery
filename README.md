@@ -37,6 +37,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Mobile](#mobile)
 * [UI](#ui)
 * [Testing](#testing)
+* [Server-side Integrations](#server-side-integrations)
 * [Community](#community)
 * [Looking for more lists like this?](#looking-for-more-lists-like-this)
 * [Contributing and License](#contributing-and-license)
@@ -309,6 +310,23 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
 * [Mockjax](https://github.com/jakerella/jquery-mockjax) - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
+
+[Back to top](#awesome-jquery)
+
+
+## Server-side Integrations
+
+*Best practices of integrating client-side jQuery with server-side technologies.*
+
+* [Bower](http://bower.io/) - Useful package manager for the web optimized for the front-end.
+* PHP:
+    * [PHP front end setup without Node](http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
+    * [symfony-collection](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
+* Python:
+    * [django-static-jquery](https://pypi.python.org/pypi/django-static-jquery/) - jQuery packaged in an handy Django app to speed up new applications and deployment.
+* Ruby:
+    * [jquery-rails](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
+    * [jquery-ui-rails](https://github.com/joliss/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
 [Back to top](#awesome-jquery)
 
