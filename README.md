@@ -318,7 +318,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Best practices of integrating client-side jQuery with server-side technologies.*
 
-* [Bower](http://bower.io/) - Useful package manager for the web optimized for the front-end.
+* Node.js:
+    * [Bower](http://bower.io/) - Useful package manager optimized for the front-end.
+    * [Cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 * PHP:
     * [PHP front end setup without Node](http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
     * [symfony-collection](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
