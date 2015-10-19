@@ -61,6 +61,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development.
 * [Learn jQuery](http://learn.jquery.com/) - jQuery learning center.
+* [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery tutorials.
 * [Try jQuery](http://try.jquery.com/) - Learn basic building blocks of jQuery.
 
 [Back to top](#awesome-jquery)
