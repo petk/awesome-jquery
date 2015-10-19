@@ -157,9 +157,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Ideal Forms](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
 * [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX.
 * [Justified Gallery](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
-* [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
-* [Pickdate](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
+* [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
+* [Pickadate](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 
 [Back to top](#awesome-jquery)
