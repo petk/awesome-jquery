@@ -117,6 +117,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode.
 * [jQuery Rain](http://www.jqueryrain.com/) - Top & Best jQuery plugins, tutorials, cool effects, examples, demos.
+* [jQuery Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins.
 
 [Back to top](#awesome-jquery)
 
