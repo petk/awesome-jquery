@@ -63,6 +63,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Learn jQuery](http://learn.jquery.com/) - jQuery learning center.
 * [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery tutorials.
 * [Try jQuery](http://try.jquery.com/) - Learn basic building blocks of jQuery.
+* [Extending jQuery](http://james.padolsey.com/javascript/extending-jquerys-selector-capabilities/) - Extending jQuery’s selector capabilities.
 
 [Back to top](#awesome-jquery)
 
