@@ -282,6 +282,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
 * [Sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more.
 * [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
+* [simpleWeather](https://github.com/monkeecreate/jquery.simpleWeather) - A simple jQuery plugin to display current weather data for any location and doesn't get in your way.
 
 [Back to top](#awesome-jquery)
 
