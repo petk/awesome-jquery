@@ -296,7 +296,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [OhSnap!.js](https://github.com/justindomingue/ohSnap) - A simple jQuery/Zepto notification library designed to be used in mobile apps.
 
 [Back to top](#awesome-jquery)
-    
+
 
 ## UI
 
@@ -305,6 +305,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery.
 * [jQuery Enhanced Splitter](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
 * [tabulous.js](https://github.com/aarondo/tabulous.js) - Tabs for todays web
+* [Dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts
 
 [Back to top](#awesome-jquery)
 
