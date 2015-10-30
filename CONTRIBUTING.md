@@ -9,7 +9,7 @@ Pull requests are welcome as well:
 * Set up your repository and set a remote branch for potential future updates
 
   ```bash
-  $ git add remote upstream git://github.com/peterkokot/awesome-jquery.git
+  $ git remote add upstream git://github.com/peterkokot/awesome-jquery.git
   $ git config branch.master.remote upstream
   ```
 
