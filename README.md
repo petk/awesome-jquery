@@ -105,6 +105,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Various types of resources.*
 
+* [jQueryConfig](http://www.jqueryconfig.com/) - Optimize the size of jQuery.
 * [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
 * [jQuery Source Viewer](http://james.padolsey.com/jquery/) - Browser of jQuery method implementations.
 * [TodoMVC](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
