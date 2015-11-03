@@ -183,6 +183,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQueryGantt](https://github.com/robicch/jQueryGantt) - Gantt editor.
 * [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider.
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
+* [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
 
 [Back to top](#awesome-jquery)
 
