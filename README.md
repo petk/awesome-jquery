@@ -248,7 +248,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Plugins for handling, manipulating or formating time and date.*
 
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
-* [Smart Time Ago](https://github.com/pragmaticly/smart-time-ago) - Update the relative timestamps in your document.
+* [Timeago](https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
 
 [Back to top](#awesome-jquery)
 
