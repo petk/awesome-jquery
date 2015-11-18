@@ -4,7 +4,6 @@
 [![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Twitter URL](https://img.shields.io/twitter/url/https/github.com/peterkokot/awesome-jquery.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fpeterkokot%2Fawesome-jquery&hashtags=jquery&text=Awesome%20jQuery%20-%20curated%20list%20of%20jQuery%20plugins,%20resources%20and%20other%20shiny%20things)
-![](https://reposs.herokuapp.com/?path=peterkokot/awesome-jquery&style=plastic)
 ![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")
 
 A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and other shiny things. Inspired by the `awesome-*` trend on GitHub.
