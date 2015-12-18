@@ -4,7 +4,8 @@
 [![Join the chat at https://gitter.im/peterkokot/awesome-jquery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peterkokot/awesome-jquery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![CCO License](https://img.shields.io/badge/license-CC0-blue.svg?style=plastic "CC0 License")](#contributing-and-license)
 [![Twitter URL](https://img.shields.io/twitter/url/https/github.com/peterkokot/awesome-jquery.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fpeterkokot%2Fawesome-jquery&hashtags=jquery&text=Awesome%20jQuery%20-%20curated%20list%20of%20jQuery%20plugins,%20resources%20and%20other%20shiny%20things)
-![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")
+[![Project Maintained](https://img.shields.io/badge/project-maintained-brightgreen.svg?style=plastic "Project Maintained")](https://github.com/peterkokot/awesome-jquery/commits/master)
+[![Build Status](https://travis-ci.org/peterkokot/awesome-jquery.svg)](https://travis-ci.org/peterkokot/awesome-jquery)
 
 A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and other shiny things. Inspired by the `awesome-*` trend on GitHub.
 
@@ -48,7 +49,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [API documentation](http://api.jquery.com/) - Official jQuery documentation.
 * [Code School](https://www.codeschool.com/courses/try-jquery) - Learn the basic building blocks of jQuery 2.0 and enjoy new video tutorials for beginners with related programming challenges.
-* [Codecademy jQuery track](https://www.codecademy.com/tracks/jquery) - Beginners track for learning jQuery.
+* [Codecademy jQuery track](https://www.codecademy.com/learn/jquery) - Beginners track for learning jQuery.
 * [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
 * [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
 * [Tuts+](http://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
