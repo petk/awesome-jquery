@@ -48,7 +48,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [API documentation](http://api.jquery.com/) - Official jQuery documentation.
 * [Code School](https://www.codeschool.com/courses/try-jquery) - Learn the basic building blocks of jQuery 2.0 and enjoy new video tutorials for beginners with related programming challenges.
-* [Codecademy jQuery track](http://www.codecademy.com/tracks/jquery) - Beginners track for learning jQuery.
+* [Codecademy jQuery track](https://www.codecademy.com/tracks/jquery) - Beginners track for learning jQuery.
 * [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
 * [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
 * [Tuts+](http://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
@@ -73,8 +73,8 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 #### Free Books
 
-* [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
-* [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*.
+* [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*.
 * [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
 
@@ -145,7 +145,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
 * [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 * [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
-* [TinyMCE](http://www.tinymce.com/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
+* [TinyMCE](https://www.tinymce.com/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
 
 [Back to top](#awesome-jquery)
 
@@ -194,7 +194,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus.
 * [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items.
-* [mmenu](https://github.com/BeSite/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus.
+* [mmenu](https://github.com/FrDH/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus.
 * [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
 * [Slidebars](https://github.com/adchsm/Slidebars) - jQuery framework for off-canvas menus and sidebars.
 * [stickUp](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
@@ -378,7 +378,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 You are most welcome to [contribute](CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors](https://github.com/peterkokot/awesome-jquery/graphs/contributors) who have helped to build this list.
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
 
