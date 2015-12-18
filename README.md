@@ -75,7 +75,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
 * [jQuery Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*.
-* [jQuery fundamentals](http://jqfundamentals.com/) - Comfortable working through common problems you'll be called upon to solve using jQuery.
+* [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
 
 #### Paid Books
@@ -91,7 +91,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Interesting jQuery related blogs and websites.*
 
-* [AddyOsmani.com](http://addyosmani.com/blog/tag/jquery/) - Articles for Front-end engineers with jQuery included.
 * [jQuery Blog](http://blog.jquery.com/) - News from the official jQuery website.
 * [jQuery UI Blog](http://blog.jqueryui.com/) - Official jQuery UI blog.
 * [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with useful articles.
@@ -349,7 +348,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Freenode](http://irc.lc/freenode/jquery) - Support IRC channel for users of jQuery, jQuery UI, and jQuery Mobile.
 * [Stack Overflow](http://stackoverflow.com/tags/jquery) - Support on Stack Overflow.
 * [Facebook](https://www.facebook.com/groups/jquerycode/) - Large and active group on Facebook.
-* [Linked.in](https://www.linkedin.com/grp/home?gid=100943) - Large and active group on Linked.in.
+* [Linked.in](https://www.linkedin.com/groups/100943) - Large and active group on Linked.in.
 * [Reddit](https://www.reddit.com/r/jquery) - Discussion and sharing news, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects.
 * [Google+](https://plus.google.com/communities/106546344682622800231) - Large and active group on Google+.
 * [Quora](https://www.quora.com/jQuery) - Ask and answer questions on Quora website.
@@ -366,12 +365,11 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [awesome-all](https://github.com/bradoyler/awesome-all) - Awesome lists
     * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - Awesome lists
     * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - Awesome lists
-    * [GetAwesomeness](http://getawesomeness.com/) - Awesome lists
+    * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - Awesome lists
     * [lists](https://github.com/jnv/lists) - Awesome lists
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
-* [lankaapura/awesome-jquery](https://github.com/lankaapura/awesome-jquery) - Awesome jQuery list
 
 [Back to top](#awesome-jquery)
 
