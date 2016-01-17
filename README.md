@@ -94,7 +94,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Blog](http://blog.jquery.com/) - News from the official jQuery website.
 * [jQuery UI Blog](http://blog.jqueryui.com/) - Official jQuery UI blog.
 * [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with useful articles.
-* [Smashing Magazine](http://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
+* [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
 
 [Back to top](#awesome-jquery)
 
