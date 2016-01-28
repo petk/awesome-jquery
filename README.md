@@ -181,8 +181,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Mapael](https://github.com/neveldo/jQuery-Mapael) - Plugin based on raphael.js that allows you to display dynamic vector maps.
 * [jQueryGantt](https://github.com/robicch/jQueryGantt) - Gantt editor.
 * [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider.
-* [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 * [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
+* [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
+* [Viewer](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 
 [Back to top](#awesome-jquery)
 
