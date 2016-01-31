@@ -227,6 +227,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Grid plugins and plugins for creating and showcasing data in form of tables.*
 
+* [Bootgrid](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
 * [Filter Table](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables.
 * [FooTable](https://github.com/fooplugins/FooTable/) - Make HTML tables responsive.
@@ -372,6 +373,8 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
+* Translations:
+    * [Chinese](https://github.com/Iamlars/awesome-jquery/tree/chinese) - Chinese translation of Awesome jQuery.
 
 [Back to top](#awesome-jquery)
 
