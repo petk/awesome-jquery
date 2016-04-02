@@ -355,7 +355,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Reddit](https://www.reddit.com/r/jquery) - Discussion and sharing news, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects.
 * [Google+](https://plus.google.com/communities/106546344682622800231) - Large and active group on Google+.
 * [Quora](https://www.quora.com/jQuery) - Ask and answer questions on Quora website.
-* [Meetup](http://jquery.meetup.com/) - Get involved locally.
+* [Meetup](http://www.meetup.com/topics/jquery/) - Get involved locally.
 * [Twitter](https://twitter.com/jquery) - Official news and updates from the jQuery team on Twitter.
 
 [Back to top](#awesome-jquery)
