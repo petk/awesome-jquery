@@ -59,6 +59,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Awesome free tutorials and courses to learn jQuery.*
 
 * [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development.
+* [Learning jQuery Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#jquerypluginpatterns) - jQuery Plugin Design Patterns
 * [Learn jQuery](http://learn.jquery.com/) - jQuery learning center.
 * [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery tutorials.
 * [Try jQuery](http://try.jquery.com/) - Learn basic building blocks of jQuery.
@@ -106,6 +107,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQueryConfig](http://www.jqueryconfig.com/) - Optimize the size of jQuery.
 * [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
 * [jQuery Source Viewer](http://james.padolsey.com/jquery/) - Browser of jQuery method implementations.
+* [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
 * [TodoMVC](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
 
 [Back to top](#awesome-jquery)
