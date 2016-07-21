@@ -59,6 +59,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Awesome free tutorials and courses to learn jQuery.*
 
 * [jQuery patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development.
+* [Learning jQuery Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#jquerypluginpatterns) - jQuery Plugin Design Patterns
 * [Learn jQuery](http://learn.jquery.com/) - jQuery learning center.
 * [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery tutorials.
 * [Try jQuery](http://try.jquery.com/) - Learn basic building blocks of jQuery.
@@ -81,7 +82,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 #### Paid Books
 
 * [jQuery in Action, Third Edition](https://www.manning.com/books/jquery-in-action-third-edition) - Fast-paced and complete guide to jQuery, *by Bear Bibeault, Yehuda Katz, and Aurelio De Rosa*.
-* [jQuery: Novice to Ninja: New Kicks And Tricks](http://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*.
+* [jQuery: Novice to Ninja: New Kicks And Tricks](https://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*.
 * [Learning jQuery - Fourth Edition](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) - Guide to jQuery, *by Jonathan Chaffer and Karl Swedberg*.
 
 [Back to top](#awesome-jquery)
@@ -93,7 +94,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [jQuery Blog](http://blog.jquery.com/) - News from the official jQuery website.
 * [jQuery UI Blog](http://blog.jqueryui.com/) - Official jQuery UI blog.
-* [Sitepoint](http://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with useful articles.
+* [Sitepoint](https://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with useful articles.
 * [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
 
 [Back to top](#awesome-jquery)
@@ -106,6 +107,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQueryConfig](http://www.jqueryconfig.com/) - Optimize the size of jQuery.
 * [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
 * [jQuery Source Viewer](http://james.padolsey.com/jquery/) - Browser of jQuery method implementations.
+* [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
 * [TodoMVC](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
 
 [Back to top](#awesome-jquery)
@@ -332,10 +334,10 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Best practices of integrating client-side jQuery with server-side technologies.*
 
 * Node.js:
-    * [Bower](http://bower.io/) - Useful package manager optimized for the front-end.
+    * [Bower](https://bower.io/) - Useful package manager optimized for the front-end.
     * [Cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 * PHP:
-    * [PHP front end setup without Node](http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
+    * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
     * [symfony-collection](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
 * Python:
     * [django-static-jquery](https://pypi.python.org/pypi/django-static-jquery/) - jQuery packaged in an handy Django app to speed up new applications and deployment.
@@ -386,7 +388,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 You are most welcome to [contribute](CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors](https://github.com/peterkokot/awesome-jquery/graphs/contributors) who have helped to build this list.
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Peter Kokot](https://github.com/peterkokot) has waived all copyright and related or neighboring rights to this work.
 
