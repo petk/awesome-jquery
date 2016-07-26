@@ -52,7 +52,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
 * [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
 * [Tuts+](http://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
-* [jQuery guide for teams](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and unsderstand by your team.
+* [jQuery guide for teams](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
 
 
 ### Tutorials
