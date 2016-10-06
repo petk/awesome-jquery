@@ -51,7 +51,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Codecademy jQuery track](https://www.codecademy.com/learn/jquery) - Beginners track for learning jQuery.
 * [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
 * [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
-* [Tuts+](http://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
+* [Tuts+](https://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
 * [jQuery guide for teams](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
 
 
@@ -105,7 +105,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Various types of resources.*
 
-* [jQueryConfig](http://www.jqueryconfig.com/) - Optimize the size of jQuery.
 * [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
 * [jQuery Source Viewer](http://james.padolsey.com/jquery/) - Browser of jQuery method implementations.
 * [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
