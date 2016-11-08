@@ -188,6 +188,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 * [Viewer](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
+* [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
 [Back to top](#awesome-jquery)
 
