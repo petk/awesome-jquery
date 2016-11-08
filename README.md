@@ -176,7 +176,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Plugins related to images, image manipulation, galleries, maps and charts.*
 
 * [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
-* [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 * [Cropper](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
 * [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease.
 * [Flot](https://github.com/flot/flot) - Attractive charts.
@@ -189,6 +188,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 * [Viewer](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
+* [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
 [Back to top](#awesome-jquery)
 
