@@ -184,7 +184,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
 * [jQuery Mapael](https://github.com/neveldo/jQuery-Mapael) - Plugin based on raphael.js that allows you to display dynamic vector maps.
 * [jQueryGantt](https://github.com/robicch/jQueryGantt) - Gantt editor.
-* [Nivo Slider](https://github.com/gilbitron/Nivo-Slider) - Beautiful and easy to use image slider.
+* [Nivo Slider](https://github.com/Codeinwp/Nivo-Slider-jQuery) - Beautiful and easy to use image slider.
 * [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 * [Viewer](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
@@ -363,7 +363,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Reddit](https://www.reddit.com/r/jquery) - Discussion and sharing news, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects.
 * [Google+](https://plus.google.com/communities/106546344682622800231) - Large and active group on Google+.
 * [Quora](https://www.quora.com/jQuery) - Ask and answer questions on Quora website.
-* [Meetup](http://www.meetup.com/topics/jquery/) - Get involved locally.
+* [Meetup](https://www.meetup.com/topics/jquery/) - Get involved locally.
 * [Twitter](https://twitter.com/jquery) - Official news and updates from the jQuery team on Twitter.
 
 [Back to top](#awesome-jquery)
