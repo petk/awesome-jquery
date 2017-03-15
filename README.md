@@ -177,6 +177,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [AnyChart-jQuery](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
 * [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
+* [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
 * [Cropper](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
 * [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease.
 * [Flot](https://github.com/flot/flot) - Attractive charts.
