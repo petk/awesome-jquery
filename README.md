@@ -26,7 +26,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [Animation](#animation)
     * [Editors](#editors)
     * [Forms](#forms)
-    * [Images Maps and Charts](#images-maps-and-charts)
+    * [Images, Maps and Charts](#images-maps-and-charts)
     * [Menus](#menus)
     * [Modals and Popups](#modals-and-popups)
     * [Tables](#tables)
