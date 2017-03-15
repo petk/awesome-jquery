@@ -167,6 +167,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 * [Pickadate](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
+* [selectize.js](https://github.com/selectize/selectize.js/) - jQuery based hybrid of a textbox and <select> box.
 
 [Back to top](#awesome-jquery)
 
