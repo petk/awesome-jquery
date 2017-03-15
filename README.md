@@ -14,6 +14,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 ## Table of contents
 
 <img width="400" src="https://raw.githubusercontent.com/petk/awesome-jquery/master/awesome-jquery.png" alt="awesome-jquery" align=right>
+
 * [Resources](#resources)
     * [Tutorials](#tutorials)
     * [Books](#books)
@@ -168,7 +169,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Payform](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 * [Pickadate](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
 * [Select2](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
-* [selectize.js](https://github.com/selectize/selectize.js/) - jQuery based hybrid of a textbox and <select> box.
+* [selectize.js](https://github.com/selectize/selectize.js/) - jQuery based hybrid of a textbox and \<select\> box.
 
 [Back to top](#awesome-jquery)
 
@@ -179,7 +180,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [AnyChart-jQuery](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
 * [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
-* [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
+* [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas\> tag.
 * [Cropper](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
 * [Dense.js](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease.
 * [Flot](https://github.com/flot/flot) - Attractive charts.
@@ -190,7 +191,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQueryGantt](https://github.com/robicch/jQueryGantt) - Gantt editor.
 * [Nivo Slider](https://github.com/Codeinwp/Nivo-Slider-jQuery) - Beautiful and easy to use image slider.
 * [Owl Carousel 2](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
-* [Peity](https://github.com/benpickles/peity) - Progressive <svg> pie, donut, bar and line charts.
+* [Peity](https://github.com/benpickles/peity) - Progressive \<svg\> pie, donut, bar and line charts.
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 * [Viewer](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 * [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
