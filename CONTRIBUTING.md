@@ -1,6 +1,6 @@
 # Contributing guidelines to Awesome jQuery
 
-Contributing to this project is very simple. You can open an [issue](https://github.com/peterkokot/awesome-jquery/issues).
+Contributing to this project is very simple. You can open an [issue](https://github.com/petk/awesome-jquery/issues).
 
 Pull requests are welcome as well:
 
@@ -9,7 +9,7 @@ Pull requests are welcome as well:
 * Set up your repository and set a remote branch for potential future updates
 
   ```bash
-  $ git remote add upstream git://github.com/peterkokot/awesome-jquery.git
+  $ git remote add upstream git://github.com/petk/awesome-jquery.git
   $ git config branch.master.remote upstream
   ```
 
