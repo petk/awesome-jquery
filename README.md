@@ -302,6 +302,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Slugify](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
 * [Readmore.js](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 * [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
+* [autoNumberic](https://github.com/BobKnothe/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
 
 [Back to top](#awesome-jquery)
 
