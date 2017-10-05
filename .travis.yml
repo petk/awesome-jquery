@@ -1,7 +1,7 @@
 language: ruby
 rvm:
-  - 2.2
+  - 2.4
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --white-list facebook.com,linkedin.com,quora.com,travis-ci.org,reddit.com,img.shields.io
+  - awesome_bot README.md --allow-dupe --white-list facebook.com,linkedin.com,quora.com,travis-ci.org,reddit.com,img.shields.io,j11y.io
