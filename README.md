@@ -191,6 +191,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery.eraser](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
 * [jQuery Mapael](https://github.com/neveldo/jQuery-Mapael) - Plugin based on raphael.js that allows you to display dynamic vector maps.
 * [jQueryGantt](https://github.com/robicch/jQueryGantt) - Gantt editor.
+* [jQuery Images Compare](https://github.com/sylvaincombes/jquery-images-compare) - Plugin for comparing two images.
 * [Nivo Slider](https://github.com/Codeinwp/Nivo-Slider-jQuery) - Beautiful and easy to use image slider.
 * [Owl Carousel 2](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
 * [Peity](https://github.com/benpickles/peity) - Progressive \<svg\> pie, donut, bar and line charts.
