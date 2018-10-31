@@ -140,6 +140,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Parallax.js](https://github.com/pixelcog/parallax.js/) - Scrolling effect.
 * [Scrollify](https://github.com/lukehaas/Scrollify/) - Assists scrolling and snaps to sections. Touch optimised.
 * [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
+* [jQuery DrawSVG](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
 
 [Back to top](#awesome-jquery)
 
