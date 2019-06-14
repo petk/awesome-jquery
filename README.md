@@ -331,7 +331,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * Node.js:
     * [Bower](https://bower.io/) - Useful package manager optimized for the front-end.
-    * [Cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+    * [cheerio](https://cheerio.js.org/) - jQuery for server-side manipulations. It makes possible to construct jQuery instance from HTML string then query and manipulate it. Does not implement ajax and effects API.
 * PHP:
     * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
     * [symfony-collection](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
@@ -365,7 +365,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Alternative implementations of jQuery API.*
 
 * [cash](https://github.com/kenwheeler/cash) - small jQuery alternative for modern browsers. Includes all API with deliberate exception for ajax.
-* [cheerio](https://cheerio.js.org/) - jQuery for server-side manipulations. It makes possible to construct jQuery instance from HTML string then query and manipulate it. Does not implement ajax and effects API.
 * [Zepto](https://zeptojs.com/) - small jQuery alternative, which includes ajax, effects and additional utilities.
 * [jBone](http://jbone.js.org/) - jQuery implementation to use with Backbone. Supports only subset of API which is required for Backbone to work. Can be a byte-saver if you don't intend to use jQuery directly, but have Backbone in your project.
 
