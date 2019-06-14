@@ -22,6 +22,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
         * [Paid Books](#paid-books)
     * [Blogs](#blogs)
     * [Miscellaneous Resources](#miscellaneous-resources)
+* [Alternatives](#alternatives)
 * [Plugins](#plugins)
     * [Animation](#animation)
     * [Editors](#editors)
@@ -115,6 +116,14 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
+## Alternatives
+
+*Alternative implementations of jQuery API.*
+
+* [cash](https://github.com/kenwheeler/cash) - small jQuery alternative for modern browsers. Includes all API with deliberate exception for ajax.
+* [cheerio](https://cheerio.js.org/) - jQuery for server-side manipulations. It makes possible to construct jQuery instance from HTML string then query and manipulate it. Does not implement ajax and effects API.
+* [Zepto](https://zeptojs.com/) - small jQuery alternative, which includes ajax, effects and additional utilities.
+* [jBone](http://jbone.js.org/) - jQuery implementation to use with Backbone. Supports only subset of API which is required for Backbone to work. Can be a byte-saver if you don't intend to use jQuery directly, but have Backbone in your project.
 
 ## Plugins
 
