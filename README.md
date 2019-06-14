@@ -10,7 +10,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 > [jQuery](http://jquery.com/) is a fast, small, and feature-rich [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 
-
 ## Table of contents
 
 <img width="400" src="https://raw.githubusercontent.com/petk/awesome-jquery/master/awesome-jquery.png" alt="awesome-jquery" align=right>
@@ -43,7 +42,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Looking for more lists like this?](#looking-for-more-lists-like-this)
 * [Contributing and License](#contributing-and-license)
 
-
 ## Resources
 
 *Awesome learning material to get to know jQuery and JavaScript or learn something more advanced. Some friendly advice: Before diving deep into jQuery learn JavaScript well.*
@@ -55,7 +53,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
 * [Tuts+](https://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
 * [jQuery guide for teams](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
-
 
 ### Tutorials
 
@@ -70,7 +67,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
-
 ### Books
 
 *Recommended and not too much outdated jQuery books.*
@@ -81,7 +77,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*.
 * [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
-
 #### Paid Books
 
 * [jQuery in Action, Third Edition](https://www.manning.com/books/jquery-in-action-third-edition) - Fast-paced and complete guide to jQuery, *by Bear Bibeault, Yehuda Katz, and Aurelio De Rosa*.
@@ -89,7 +84,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Learning jQuery - Fourth Edition](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) - Guide to jQuery, *by Jonathan Chaffer and Karl Swedberg*.
 
 [Back to top](#awesome-jquery)
-
 
 ### Blogs
 
@@ -101,7 +95,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
 
 [Back to top](#awesome-jquery)
-
 
 ### Miscellaneous Resources
 
@@ -126,7 +119,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
-
 ## Animation
 
 *Animations, transitions.*
@@ -144,7 +136,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
-
 ### Editors
 
 *WYSIWYG editors.*
@@ -156,7 +147,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [TinyMCE](https://www.tinymce.com/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
 
 [Back to top](#awesome-jquery)
-
 
 ### Forms
 
@@ -175,7 +165,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [selectize.js](https://github.com/selectize/selectize.js/) - jQuery based hybrid of a textbox and \<select\> box.
 
 [Back to top](#awesome-jquery)
-
 
 ### Images, Maps and Charts
 
@@ -203,7 +192,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
-
 ### Menus
 
 *Menus animation, usability enhancements and beautification.*
@@ -219,7 +207,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Yamm](https://github.com/geedmo/yamm3) - Yet another megamenu for Bootstrap 3.
 
 [Back to top](#awesome-jquery)
-
 
 ### Modals and Popups
 
@@ -239,7 +226,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
 
 [Back to top](#awesome-jquery)
-
 
 ### Tables
 
@@ -263,7 +249,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
-
 ### Time and Date
 
 *Plugins for handling, manipulating or formating time and date.*
@@ -272,7 +257,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Timeago](https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
 
 [Back to top](#awesome-jquery)
-
 
 ### Translations
 
@@ -283,7 +267,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jquery.localize.js](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
 
 [Back to top](#awesome-jquery)
-
 
 ### Validation
 
@@ -296,7 +279,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
 
 [Back to top](#awesome-jquery)
-
 
 ### Miscellaneous Plugins
 
@@ -312,7 +294,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
-
 ## Mobile
 
 *Mobile section.*
@@ -322,7 +303,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [OhSnap!.js](https://github.com/justindomingue/ohSnap) - A simple jQuery/Zepto notification library designed to be used in mobile apps.
 
 [Back to top](#awesome-jquery)
-
 
 ## UI
 
@@ -336,7 +316,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 [Back to top](#awesome-jquery)
 
-
 ## Testing
 
 *Unit tests, testing section.*
@@ -345,7 +324,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Mockjax](https://github.com/jakerella/jquery-mockjax) - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
 
 [Back to top](#awesome-jquery)
-
 
 ## Server-side Integrations
 
@@ -364,7 +342,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [jquery-ui-rails](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
 [Back to top](#awesome-jquery)
-
 
 ## Community
 
@@ -410,7 +387,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [Chinese](https://github.com/Iamlars/awesome-jquery/tree/chinese) - Chinese translation of Awesome jQuery.
 
 [Back to top](#awesome-jquery)
-
 
 ## Contributing and License
 
