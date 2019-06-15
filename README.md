@@ -47,9 +47,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Awesome learning material to get to know jQuery and JavaScript or learn something more advanced. Some friendly advice: Before diving deep into jQuery learn JavaScript well.*
 
 * [API documentation](http://api.jquery.com/) - Official jQuery documentation.
-* [Code School](https://www.codeschool.com/courses/try-jquery) - Learn the basic building blocks of jQuery 2.0 and enjoy new video tutorials for beginners with related programming challenges.
-* [Codecademy jQuery track](https://www.codecademy.com/en/tracks/jquery) - Beginners track for learning jQuery.
-* [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
+* [Code School](https://www.pluralsight.com/courses/code-school-try-jquery) - Learn the basics of jQuery, a JavaScript library, to modify elements on a webpage and improve user interaction.
+* [Codecademy jQuery track](https://www.codecademy.com/learn/learn-jquery) - Beginners track for learning jQuery.
+* [Learning jQuery](https://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
 * [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
 * [Tuts+](https://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
 * [jQuery guide for teams](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
@@ -62,7 +62,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Learning jQuery Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#jquerypluginpatterns) - jQuery Plugin Design Patterns
 * [Learn jQuery](http://learn.jquery.com/) - jQuery learning center.
 * [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery tutorials.
-* [Try jQuery](http://try.jquery.com/) - Learn basic building blocks of jQuery.
 * [Extending jQuery](https://j11y.io/javascript/extending-jquerys-selector-capabilities/) - Extending jQuery’s selector capabilities.
 
 [Back to top](#awesome-jquery)
@@ -74,7 +73,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 #### Free Books
 
 * [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
-* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, .mobi) *(Registration required)*.
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/jquery) (PDF, mobi, epub) *(Registration required)*.
 * [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
 #### Paid Books
@@ -92,7 +91,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Blog](http://blog.jquery.com/) - News from the official jQuery website.
 * [jQuery UI Blog](http://blog.jqueryui.com/) - Official jQuery UI blog.
 * [Sitepoint](https://www.sitepoint.com/javascript/jquery/) - Sitepoint's jQuery category section with useful articles.
-* [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
+* [Smashing Magazine](https://www.smashingmagazine.com/category/jquery) - jQuery tag, useful jQuery articles and tutorial alike blog posts.
 
 [Back to top](#awesome-jquery)
 
@@ -113,7 +112,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Awesome plugins from all across the jQuery universe.*
 
-* [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode.
+* [Plugins](https://www.npmjs.com/search?q=keywords:jquery-plugin) - Registry of jQuery plugins, [previous one](http://plugins.jquery.com/) is now in read-only mode.
 * [jQuery Rain](http://www.jqueryrain.com/) - Top & Best jQuery plugins, tutorials, cool effects, examples, demos.
 * [jQuery Unheap](http://www.unheap.com/) - A tidy repository of jQuery plugins.
 
@@ -144,7 +143,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
 * [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 * [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
-* [TinyMCE](https://www.tinymce.com/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
+* [TinyMCE](https://www.tiny.cloud/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
 
 [Back to top](#awesome-jquery)
 
@@ -199,7 +198,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus.
 * [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items.
-* [mmenu](https://github.com/FrDH/jQuery.mmenu) - App look-alike on- and off-canvas menus with sliding submenus.
+* [mmenu](https://github.com/FrDH/mmenu-js) - App look-alike on- and off-canvas menus with sliding submenus.
 * [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
 * [Slidebars](https://github.com/adchsm/Slidebars) - jQuery framework for off-canvas menus and sidebars.
 * [stickUp](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
@@ -215,7 +214,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [animatedModal.js](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
 * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
 * [Bootstrap Modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
-* [iziModal](https://github.com/dolce/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+* [iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 * [jBox](https://github.com/StephanWagner/jBox) - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
 * [jQuery Modal](https://github.com/kylefox/jquery-modal) - Simple and lightweight method of displaying modal windows.
 * [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - Responsive and accessible modal windows and tooltips.
@@ -232,7 +231,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Grid plugins and plugins for creating and showcasing data in form of tables.*
 
 * [Bootgrid](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
-* [Bootstrap table](http://bootstrap-table.wenzhixin.net.cn/) - A powerful table control designed for bootstrap.
+* [Bootstrap table](https://bootstrap-table.com/) - A powerful table control designed for bootstrap.
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
 * [FancyGrid](https://fancygrid.com/) - JavaScript grid library with charts integration and server communication.
 * [Filter Table](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables.
@@ -336,7 +335,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
     * [symfony-collection](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
 * Python:
-    * [django-static-jquery](https://pypi.python.org/pypi/django-static-jquery/) - jQuery packaged in an handy Django app to speed up new applications and deployment.
+    * [django-static-jquery](https://pypi.org/pypi/django-static-jquery/) - jQuery packaged in an handy Django app to speed up new applications and deployment.
 * Ruby:
     * [jquery-rails](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
     * [jquery-ui-rails](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
@@ -353,7 +352,6 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Facebook](https://www.facebook.com/groups/jquerycode/) - Large and active group on Facebook.
 * [Linked.in](https://www.linkedin.com/groups/100943) - Large and active group on Linked.in.
 * [Reddit](https://www.reddit.com/r/jquery) - Discussion and sharing news, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects.
-* [Google+](https://plus.google.com/communities/106546344682622800231) - Large and active group on Google+.
 * [Quora](https://www.quora.com/jQuery) - Ask and answer questions on Quora website.
 * [Meetup](https://www.meetup.com/topics/jquery/) - Get involved locally.
 * [Twitter](https://twitter.com/jquery) - Official news and updates from the jQuery team on Twitter.
