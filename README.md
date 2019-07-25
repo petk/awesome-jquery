@@ -245,6 +245,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Stackable.js](https://github.com/johnpolacek/stacktable.js/) - Stacking tables on small screens.
 * [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
+* [jquery.table-shrinker](https://github.com/VagnerDomingues/jquery.table-shrinker) - make HTML Table responsive across all devices, the right way!
 
 [Back to top](#awesome-jquery)
 
