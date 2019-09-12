@@ -277,6 +277,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
 * [jquery-validation](https://github.com/jquery-validation/jquery-validation) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
+* [jQuery-form-validation](https://github.com/bnabriss/jquery-form-validation) - Validatie html forms using Laravel syntax.
 
 [Back to top](#awesome-jquery)
 
