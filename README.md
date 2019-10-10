@@ -184,6 +184,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [jQuery Images Compare](https://github.com/sylvaincombes/jquery-images-compare) - Plugin for comparing two images.
 * [Nivo Slider](https://github.com/Codeinwp/Nivo-Slider-jQuery) - Beautiful and easy to use image slider.
 * [Owl Carousel 2](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
+* [Slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 * [Peity](https://github.com/benpickles/peity) - Progressive \<svg\> pie, donut, bar and line charts.
 * [Unite Gallery](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 * [Viewer](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
