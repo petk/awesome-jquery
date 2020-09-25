@@ -77,7 +77,7 @@ $("div#myid").yourPlugin().anotherPlugin().yetAnotherPlugin();
 
 ## 8. Easy Usage
 
-Plugin should be easy to use and should work out of the box withouth the need to browse the documentation, set options or editing plugin code.
+Plugin should be easy to use and should work out of the box without the need to browse the documentation, set options or editing plugin code.
 
 If possible make sure that plugin can initialize itself:
 
