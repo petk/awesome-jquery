@@ -106,6 +106,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [TodoMVC](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
 * [jQuery CheatSheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 * [Programming Community Curated Resources for Learning jQuery](https://hackr.io/tutorials/learn-jquery)
+* [HTML Tutorial by Scaler](https://www.scaler.com/topics/html/)
 
 [Back to top](#awesome-jquery)
 
