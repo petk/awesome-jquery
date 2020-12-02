@@ -132,6 +132,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Scrollify](https://github.com/lukehaas/Scrollify/) - Assists scrolling and snaps to sections. Touch optimised.
 * [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
 * [jQuery DrawSVG](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
+* [jQuery Particles](https://github.com/matteobruni/tsparticles/tree/master/components/jquery) - A plugin to easily add Particles animations to your web application
 
 [Back to top](#awesome-jquery)
 
