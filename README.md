@@ -8,7 +8,7 @@
 
 A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and other shiny things. Inspired by the `awesome-*` trend on GitHub.
 
-> [jQuery](http://jquery.com/) is a fast, small, and feature-rich [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+> [jQuery](http://jquery.com/) is a fast, small, and feature-rich [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) library. It makes things like [HTML](https://www.scaler.com/topics/html/) document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 
 ## Table of contents
 
